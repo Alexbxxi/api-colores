@@ -1,2 +1,2 @@
 # apicolores
- API colores
+Backend para coloresApp desarrollado en Laravel 8
